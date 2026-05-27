@@ -1,4 +1,4 @@
-TOKEN = "7076389621:AAGeOmmthZZfuDh0mo_LKZiljeuouyEEGww"
+TOKEN = ""
 
 PERIOD_MAP = {
     "1 день": "1d",
