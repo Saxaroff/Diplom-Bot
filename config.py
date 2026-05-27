@@ -1,0 +1,19 @@
+TOKEN = "7076389621:AAGeOmmthZZfuDh0mo_LKZiljeuouyEEGww"
+
+PERIOD_MAP = {
+    "1 день": "1d",
+    "1 неделя": "5d",
+    "1 месяц": "1mo",
+    "3 месяца": "3mo",
+    "6 месяцев": "6mo",
+    "1 год": "1y",
+    "2 года": "2y",
+    "3 года": "3y"
+}
+
+PORTFOLIO_PERIOD_CHOICES = ["1 месяц", "3 месяца", "6 месяцев", "1 год", "2 года", "3 года"]
+STATS_PERIOD_CHOICES = ["1 день", "1 неделя", "1 месяц", "3 месяца", "6 месяцев", "1 год", "2 года", "3 года"]
+
+MIN_WEIGHT = 0.0
+MAX_WEIGHT = 0.45
+DEFAULT_RISK_FREE_RATE = 0.01
